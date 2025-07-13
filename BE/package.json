@@ -1,0 +1,11 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "JSON server for the Nuxt todo app",
+  "main": "db.json",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 3000"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "7881",
+      "text": "Test task",
+      "status": "in-progress",
+      "createdAt": "2025-07-13T19:10:46.203Z"
+    },
+    {
+      "id": "2bcd",
+      "text": "TODO App",
+      "status": "in-progress",
+      "createdAt": "2025-07-13T19:10:59.491Z"
+    },
+    {
+      "id": "b0b9",
+      "text": "Go shopping :)",
+      "status": "completed",
+      "createdAt": "2025-07-13T19:11:05.572Z"
+    },
+    {
+      "id": "2342",
+      "text": "Do better desing after review",
+      "status": "todo",
+      "createdAt": "2025-07-13T19:11:25.449Z"
+    },
+    {
+      "id": "de97",
+      "text": "TEST DONE",
+      "status": "completed",
+      "createdAt": "2025-07-13T19:11:49.481Z"
+    }
+  ]
+}
